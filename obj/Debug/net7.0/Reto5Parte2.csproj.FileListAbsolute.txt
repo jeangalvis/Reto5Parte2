@@ -1,0 +1,14 @@
+C:\Users\AdminAp-066\Documents\Reto5Parte2\bin\Debug\net7.0\Reto5Parte2.exe
+C:\Users\AdminAp-066\Documents\Reto5Parte2\bin\Debug\net7.0\Reto5Parte2.deps.json
+C:\Users\AdminAp-066\Documents\Reto5Parte2\bin\Debug\net7.0\Reto5Parte2.runtimeconfig.json
+C:\Users\AdminAp-066\Documents\Reto5Parte2\bin\Debug\net7.0\Reto5Parte2.dll
+C:\Users\AdminAp-066\Documents\Reto5Parte2\bin\Debug\net7.0\Reto5Parte2.pdb
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\Reto5Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\Reto5Parte2.AssemblyInfoInputs.cache
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\Reto5Parte2.AssemblyInfo.cs
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\Reto5Parte2.csproj.CoreCompileInputs.cache
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\Reto5Parte2.dll
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\refint\Reto5Parte2.dll
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\Reto5Parte2.pdb
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\Reto5Parte2.genruntimeconfig.cache
+C:\Users\AdminAp-066\Documents\Reto5Parte2\obj\Debug\net7.0\ref\Reto5Parte2.dll
